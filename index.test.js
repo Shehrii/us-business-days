@@ -14,5 +14,5 @@ test("Thanksgiving 2026 is 26 November", () => assert.equal(holidayOn("2026-11-2
 test("business days", () => {
   assert.equal(isBusinessDay("2026-11-21"), false); // Saturday
   assert.equal(addBusinessDays("2026-11-25", 1), "2026-11-27"); // skips Thanksgiving
-  assert.equal(businessDaysBetween("2025-12-31", "2026-12-31"), 251);
+  assert.equal(businessDaysBetween("2025-12-31", "2026-12-31"), 250);
 });

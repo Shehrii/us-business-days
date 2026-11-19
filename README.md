@@ -25,7 +25,7 @@ federalHolidays(2027);                       // [{ name, date, observed }, ...] 
 holidayOn("2026-11-26");                     // "Thanksgiving Day"
 isBusinessDay("2026-11-21");                 // false (Saturday)
 addBusinessDays("2026-11-25", 1);            // "2026-11-27" (skips Thanksgiving)
-businessDaysBetween("2025-12-31", "2026-12-31"); // 251 working days in 2026
+businessDaysBetween("2025-12-31", "2026-12-31"); // 250 working days in 2026
 ```
 
 Every function takes an optional last argument `skipHolidays` (default `true`); pass `false` to count weekdays only.
