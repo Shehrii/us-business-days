@@ -1,0 +1,1199 @@
+{
+  "2020": [
+    {
+      "name": "New Year's Day",
+      "date": "2020-01-01",
+      "observed": "2020-01-01"
+    },
+    {
+      "name": "Birthday of Martin Luther King, Jr.",
+      "date": "2020-01-20",
+      "observed": "2020-01-20"
+    },
+    {
+      "name": "Washington's Birthday (Presidents Day)",
+      "date": "2020-02-17",
+      "observed": "2020-02-17"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2020-05-25",
+      "observed": "2020-05-25"
+    },
+    {
+      "name": "Juneteenth National Independence Day",
+      "date": "2020-06-19",
+      "observed": "2020-06-19"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2020-07-04",
+      "observed": "2020-07-03"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2020-09-07",
+      "observed": "2020-09-07"
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2020-10-12",
+      "observed": "2020-10-12"
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2020-11-11",
+      "observed": "2020-11-11"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2020-11-26",
+      "observed": "2020-11-26"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2020-12-25",
+      "observed": "2020-12-25"
+    }
+  ],
+  "2021": [
+    {
+      "name": "New Year's Day",
+      "date": "2021-01-01",
+      "observed": "2021-01-01"
+    },
+    {
+      "name": "Birthday of Martin Luther King, Jr.",
+      "date": "2021-01-18",
+      "observed": "2021-01-18"
+    },
+    {
+      "name": "Washington's Birthday (Presidents Day)",
+      "date": "2021-02-15",
+      "observed": "2021-02-15"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2021-05-31",
+      "observed": "2021-05-31"
+    },
+    {
+      "name": "Juneteenth National Independence Day",
+      "date": "2021-06-19",
+      "observed": "2021-06-18"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2021-07-04",
+      "observed": "2021-07-05"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2021-09-06",
+      "observed": "2021-09-06"
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2021-10-11",
+      "observed": "2021-10-11"
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2021-11-11",
+      "observed": "2021-11-11"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2021-11-25",
+      "observed": "2021-11-25"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2021-12-25",
+      "observed": "2021-12-24"
+    }
+  ],
+  "2022": [
+    {
+      "name": "New Year's Day",
+      "date": "2022-01-01",
+      "observed": "2021-12-31"
+    },
+    {
+      "name": "Birthday of Martin Luther King, Jr.",
+      "date": "2022-01-17",
+      "observed": "2022-01-17"
+    },
+    {
+      "name": "Washington's Birthday (Presidents Day)",
+      "date": "2022-02-21",
+      "observed": "2022-02-21"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2022-05-30",
+      "observed": "2022-05-30"
+    },
+    {
+      "name": "Juneteenth National Independence Day",
+      "date": "2022-06-19",
+      "observed": "2022-06-20"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2022-07-04",
+      "observed": "2022-07-04"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2022-09-05",
+      "observed": "2022-09-05"
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2022-10-10",
+      "observed": "2022-10-10"
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2022-11-11",
+      "observed": "2022-11-11"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2022-11-24",
+      "observed": "2022-11-24"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2022-12-25",
+      "observed": "2022-12-26"
+    }
+  ],
+  "2023": [
+    {
+      "name": "New Year's Day",
+      "date": "2023-01-01",
+      "observed": "2023-01-02"
+    },
+    {
+      "name": "Birthday of Martin Luther King, Jr.",
+      "date": "2023-01-16",
+      "observed": "2023-01-16"
+    },
+    {
+      "name": "Washington's Birthday (Presidents Day)",
+      "date": "2023-02-20",
+      "observed": "2023-02-20"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2023-05-29",
+      "observed": "2023-05-29"
+    },
+    {
+      "name": "Juneteenth National Independence Day",
+      "date": "2023-06-19",
+      "observed": "2023-06-19"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2023-07-04",
+      "observed": "2023-07-04"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2023-09-04",
+      "observed": "2023-09-04"
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2023-10-09",
+      "observed": "2023-10-09"
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2023-11-11",
+      "observed": "2023-11-10"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2023-11-23",
+      "observed": "2023-11-23"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2023-12-25",
+      "observed": "2023-12-25"
+    }
+  ],
+  "2024": [
+    {
+      "name": "New Year's Day",
+      "date": "2024-01-01",
+      "observed": "2024-01-01"
+    },
+    {
+      "name": "Birthday of Martin Luther King, Jr.",
+      "date": "2024-01-15",
+      "observed": "2024-01-15"
+    },
+    {
+      "name": "Washington's Birthday (Presidents Day)",
+      "date": "2024-02-19",
+      "observed": "2024-02-19"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2024-05-27",
+      "observed": "2024-05-27"
+    },
+    {
+      "name": "Juneteenth National Independence Day",
+      "date": "2024-06-19",
+      "observed": "2024-06-19"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2024-07-04",
+      "observed": "2024-07-04"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2024-09-02",
+      "observed": "2024-09-02"
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2024-10-14",
+      "observed": "2024-10-14"
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2024-11-11",
+      "observed": "2024-11-11"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2024-11-28",
+      "observed": "2024-11-28"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2024-12-25",
+      "observed": "2024-12-25"
+    }
+  ],
+  "2025": [
+    {
+      "name": "New Year's Day",
+      "date": "2025-01-01",
+      "observed": "2025-01-01"
+    },
+    {
+      "name": "Birthday of Martin Luther King, Jr.",
+      "date": "2025-01-20",
+      "observed": "2025-01-20"
+    },
+    {
+      "name": "Washington's Birthday (Presidents Day)",
+      "date": "2025-02-17",
+      "observed": "2025-02-17"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2025-05-26",
+      "observed": "2025-05-26"
+    },
+    {
+      "name": "Juneteenth National Independence Day",
+      "date": "2025-06-19",
+      "observed": "2025-06-19"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2025-07-04",
+      "observed": "2025-07-04"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2025-09-01",
+      "observed": "2025-09-01"
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2025-10-13",
+      "observed": "2025-10-13"
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2025-11-11",
+      "observed": "2025-11-11"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2025-11-27",
+      "observed": "2025-11-27"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2025-12-25",
+      "observed": "2025-12-25"
+    }
+  ],
+  "2026": [
+    {
+      "name": "New Year's Day",
+      "date": "2026-01-01",
+      "observed": "2026-01-01"
+    },
+    {
+      "name": "Birthday of Martin Luther King, Jr.",
+      "date": "2026-01-19",
+      "observed": "2026-01-19"
+    },
+    {
+      "name": "Washington's Birthday (Presidents Day)",
+      "date": "2026-02-16",
+      "observed": "2026-02-16"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2026-05-25",
+      "observed": "2026-05-25"
+    },
+    {
+      "name": "Juneteenth National Independence Day",
+      "date": "2026-06-19",
+      "observed": "2026-06-19"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2026-07-04",
+      "observed": "2026-07-03"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2026-09-07",
+      "observed": "2026-09-07"
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2026-10-12",
+      "observed": "2026-10-12"
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2026-11-11",
+      "observed": "2026-11-11"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2026-11-26",
+      "observed": "2026-11-26"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2026-12-25",
+      "observed": "2026-12-25"
+    }
+  ],
+  "2027": [
+    {
+      "name": "New Year's Day",
+      "date": "2027-01-01",
+      "observed": "2027-01-01"
+    },
+    {
+      "name": "Birthday of Martin Luther King, Jr.",
+      "date": "2027-01-18",
+      "observed": "2027-01-18"
+    },
+    {
+      "name": "Washington's Birthday (Presidents Day)",
+      "date": "2027-02-15",
+      "observed": "2027-02-15"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2027-05-31",
+      "observed": "2027-05-31"
+    },
+    {
+      "name": "Juneteenth National Independence Day",
+      "date": "2027-06-19",
+      "observed": "2027-06-18"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2027-07-04",
+      "observed": "2027-07-05"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2027-09-06",
+      "observed": "2027-09-06"
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2027-10-11",
+      "observed": "2027-10-11"
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2027-11-11",
+      "observed": "2027-11-11"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2027-11-25",
+      "observed": "2027-11-25"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2027-12-25",
+      "observed": "2027-12-24"
+    }
+  ],
+  "2028": [
+    {
+      "name": "New Year's Day",
+      "date": "2028-01-01",
+      "observed": "2027-12-31"
+    },
+    {
+      "name": "Birthday of Martin Luther King, Jr.",
+      "date": "2028-01-17",
+      "observed": "2028-01-17"
+    },
+    {
+      "name": "Washington's Birthday (Presidents Day)",
+      "date": "2028-02-21",
+      "observed": "2028-02-21"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2028-05-29",
+      "observed": "2028-05-29"
+    },
+    {
+      "name": "Juneteenth National Independence Day",
+      "date": "2028-06-19",
+      "observed": "2028-06-19"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2028-07-04",
+      "observed": "2028-07-04"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2028-09-04",
+      "observed": "2028-09-04"
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2028-10-09",
+      "observed": "2028-10-09"
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2028-11-11",
+      "observed": "2028-11-10"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2028-11-23",
+      "observed": "2028-11-23"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2028-12-25",
+      "observed": "2028-12-25"
+    }
+  ],
+  "2029": [
+    {
+      "name": "New Year's Day",
+      "date": "2029-01-01",
+      "observed": "2029-01-01"
+    },
+    {
+      "name": "Birthday of Martin Luther King, Jr.",
+      "date": "2029-01-15",
+      "observed": "2029-01-15"
+    },
+    {
+      "name": "Washington's Birthday (Presidents Day)",
+      "date": "2029-02-19",
+      "observed": "2029-02-19"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2029-05-28",
+      "observed": "2029-05-28"
+    },
+    {
+      "name": "Juneteenth National Independence Day",
+      "date": "2029-06-19",
+      "observed": "2029-06-19"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2029-07-04",
+      "observed": "2029-07-04"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2029-09-03",
+      "observed": "2029-09-03"
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2029-10-08",
+      "observed": "2029-10-08"
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2029-11-11",
+      "observed": "2029-11-12"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2029-11-22",
+      "observed": "2029-11-22"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2029-12-25",
+      "observed": "2029-12-25"
+    }
+  ],
+  "2030": [
+    {
+      "name": "New Year's Day",
+      "date": "2030-01-01",
+      "observed": "2030-01-01"
+    },
+    {
+      "name": "Birthday of Martin Luther King, Jr.",
+      "date": "2030-01-21",
+      "observed": "2030-01-21"
+    },
+    {
+      "name": "Washington's Birthday (Presidents Day)",
+      "date": "2030-02-18",
+      "observed": "2030-02-18"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2030-05-27",
+      "observed": "2030-05-27"
+    },
+    {
+      "name": "Juneteenth National Independence Day",
+      "date": "2030-06-19",
+      "observed": "2030-06-19"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2030-07-04",
+      "observed": "2030-07-04"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2030-09-02",
+      "observed": "2030-09-02"
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2030-10-14",
+      "observed": "2030-10-14"
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2030-11-11",
+      "observed": "2030-11-11"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2030-11-28",
+      "observed": "2030-11-28"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2030-12-25",
+      "observed": "2030-12-25"
+    }
+  ],
+  "2031": [
+    {
+      "name": "New Year's Day",
+      "date": "2031-01-01",
+      "observed": "2031-01-01"
+    },
+    {
+      "name": "Birthday of Martin Luther King, Jr.",
+      "date": "2031-01-20",
+      "observed": "2031-01-20"
+    },
+    {
+      "name": "Washington's Birthday (Presidents Day)",
+      "date": "2031-02-17",
+      "observed": "2031-02-17"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2031-05-26",
+      "observed": "2031-05-26"
+    },
+    {
+      "name": "Juneteenth National Independence Day",
+      "date": "2031-06-19",
+      "observed": "2031-06-19"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2031-07-04",
+      "observed": "2031-07-04"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2031-09-01",
+      "observed": "2031-09-01"
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2031-10-13",
+      "observed": "2031-10-13"
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2031-11-11",
+      "observed": "2031-11-11"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2031-11-27",
+      "observed": "2031-11-27"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2031-12-25",
+      "observed": "2031-12-25"
+    }
+  ],
+  "2032": [
+    {
+      "name": "New Year's Day",
+      "date": "2032-01-01",
+      "observed": "2032-01-01"
+    },
+    {
+      "name": "Birthday of Martin Luther King, Jr.",
+      "date": "2032-01-19",
+      "observed": "2032-01-19"
+    },
+    {
+      "name": "Washington's Birthday (Presidents Day)",
+      "date": "2032-02-16",
+      "observed": "2032-02-16"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2032-05-31",
+      "observed": "2032-05-31"
+    },
+    {
+      "name": "Juneteenth National Independence Day",
+      "date": "2032-06-19",
+      "observed": "2032-06-18"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2032-07-04",
+      "observed": "2032-07-05"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2032-09-06",
+      "observed": "2032-09-06"
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2032-10-11",
+      "observed": "2032-10-11"
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2032-11-11",
+      "observed": "2032-11-11"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2032-11-25",
+      "observed": "2032-11-25"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2032-12-25",
+      "observed": "2032-12-24"
+    }
+  ],
+  "2033": [
+    {
+      "name": "New Year's Day",
+      "date": "2033-01-01",
+      "observed": "2032-12-31"
+    },
+    {
+      "name": "Birthday of Martin Luther King, Jr.",
+      "date": "2033-01-17",
+      "observed": "2033-01-17"
+    },
+    {
+      "name": "Washington's Birthday (Presidents Day)",
+      "date": "2033-02-21",
+      "observed": "2033-02-21"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2033-05-30",
+      "observed": "2033-05-30"
+    },
+    {
+      "name": "Juneteenth National Independence Day",
+      "date": "2033-06-19",
+      "observed": "2033-06-20"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2033-07-04",
+      "observed": "2033-07-04"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2033-09-05",
+      "observed": "2033-09-05"
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2033-10-10",
+      "observed": "2033-10-10"
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2033-11-11",
+      "observed": "2033-11-11"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2033-11-24",
+      "observed": "2033-11-24"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2033-12-25",
+      "observed": "2033-12-26"
+    }
+  ],
+  "2034": [
+    {
+      "name": "New Year's Day",
+      "date": "2034-01-01",
+      "observed": "2034-01-02"
+    },
+    {
+      "name": "Birthday of Martin Luther King, Jr.",
+      "date": "2034-01-16",
+      "observed": "2034-01-16"
+    },
+    {
+      "name": "Washington's Birthday (Presidents Day)",
+      "date": "2034-02-20",
+      "observed": "2034-02-20"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2034-05-29",
+      "observed": "2034-05-29"
+    },
+    {
+      "name": "Juneteenth National Independence Day",
+      "date": "2034-06-19",
+      "observed": "2034-06-19"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2034-07-04",
+      "observed": "2034-07-04"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2034-09-04",
+      "observed": "2034-09-04"
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2034-10-09",
+      "observed": "2034-10-09"
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2034-11-11",
+      "observed": "2034-11-10"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2034-11-23",
+      "observed": "2034-11-23"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2034-12-25",
+      "observed": "2034-12-25"
+    }
+  ],
+  "2035": [
+    {
+      "name": "New Year's Day",
+      "date": "2035-01-01",
+      "observed": "2035-01-01"
+    },
+    {
+      "name": "Birthday of Martin Luther King, Jr.",
+      "date": "2035-01-15",
+      "observed": "2035-01-15"
+    },
+    {
+      "name": "Washington's Birthday (Presidents Day)",
+      "date": "2035-02-19",
+      "observed": "2035-02-19"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2035-05-28",
+      "observed": "2035-05-28"
+    },
+    {
+      "name": "Juneteenth National Independence Day",
+      "date": "2035-06-19",
+      "observed": "2035-06-19"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2035-07-04",
+      "observed": "2035-07-04"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2035-09-03",
+      "observed": "2035-09-03"
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2035-10-08",
+      "observed": "2035-10-08"
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2035-11-11",
+      "observed": "2035-11-12"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2035-11-22",
+      "observed": "2035-11-22"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2035-12-25",
+      "observed": "2035-12-25"
+    }
+  ],
+  "2036": [
+    {
+      "name": "New Year's Day",
+      "date": "2036-01-01",
+      "observed": "2036-01-01"
+    },
+    {
+      "name": "Birthday of Martin Luther King, Jr.",
+      "date": "2036-01-21",
+      "observed": "2036-01-21"
+    },
+    {
+      "name": "Washington's Birthday (Presidents Day)",
+      "date": "2036-02-18",
+      "observed": "2036-02-18"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2036-05-26",
+      "observed": "2036-05-26"
+    },
+    {
+      "name": "Juneteenth National Independence Day",
+      "date": "2036-06-19",
+      "observed": "2036-06-19"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2036-07-04",
+      "observed": "2036-07-04"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2036-09-01",
+      "observed": "2036-09-01"
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2036-10-13",
+      "observed": "2036-10-13"
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2036-11-11",
+      "observed": "2036-11-11"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2036-11-27",
+      "observed": "2036-11-27"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2036-12-25",
+      "observed": "2036-12-25"
+    }
+  ],
+  "2037": [
+    {
+      "name": "New Year's Day",
+      "date": "2037-01-01",
+      "observed": "2037-01-01"
+    },
+    {
+      "name": "Birthday of Martin Luther King, Jr.",
+      "date": "2037-01-19",
+      "observed": "2037-01-19"
+    },
+    {
+      "name": "Washington's Birthday (Presidents Day)",
+      "date": "2037-02-16",
+      "observed": "2037-02-16"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2037-05-25",
+      "observed": "2037-05-25"
+    },
+    {
+      "name": "Juneteenth National Independence Day",
+      "date": "2037-06-19",
+      "observed": "2037-06-19"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2037-07-04",
+      "observed": "2037-07-03"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2037-09-07",
+      "observed": "2037-09-07"
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2037-10-12",
+      "observed": "2037-10-12"
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2037-11-11",
+      "observed": "2037-11-11"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2037-11-26",
+      "observed": "2037-11-26"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2037-12-25",
+      "observed": "2037-12-25"
+    }
+  ],
+  "2038": [
+    {
+      "name": "New Year's Day",
+      "date": "2038-01-01",
+      "observed": "2038-01-01"
+    },
+    {
+      "name": "Birthday of Martin Luther King, Jr.",
+      "date": "2038-01-18",
+      "observed": "2038-01-18"
+    },
+    {
+      "name": "Washington's Birthday (Presidents Day)",
+      "date": "2038-02-15",
+      "observed": "2038-02-15"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2038-05-31",
+      "observed": "2038-05-31"
+    },
+    {
+      "name": "Juneteenth National Independence Day",
+      "date": "2038-06-19",
+      "observed": "2038-06-18"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2038-07-04",
+      "observed": "2038-07-05"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2038-09-06",
+      "observed": "2038-09-06"
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2038-10-11",
+      "observed": "2038-10-11"
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2038-11-11",
+      "observed": "2038-11-11"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2038-11-25",
+      "observed": "2038-11-25"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2038-12-25",
+      "observed": "2038-12-24"
+    }
+  ],
+  "2039": [
+    {
+      "name": "New Year's Day",
+      "date": "2039-01-01",
+      "observed": "2038-12-31"
+    },
+    {
+      "name": "Birthday of Martin Luther King, Jr.",
+      "date": "2039-01-17",
+      "observed": "2039-01-17"
+    },
+    {
+      "name": "Washington's Birthday (Presidents Day)",
+      "date": "2039-02-21",
+      "observed": "2039-02-21"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2039-05-30",
+      "observed": "2039-05-30"
+    },
+    {
+      "name": "Juneteenth National Independence Day",
+      "date": "2039-06-19",
+      "observed": "2039-06-20"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2039-07-04",
+      "observed": "2039-07-04"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2039-09-05",
+      "observed": "2039-09-05"
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2039-10-10",
+      "observed": "2039-10-10"
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2039-11-11",
+      "observed": "2039-11-11"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2039-11-24",
+      "observed": "2039-11-24"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2039-12-25",
+      "observed": "2039-12-26"
+    }
+  ],
+  "2040": [
+    {
+      "name": "New Year's Day",
+      "date": "2040-01-01",
+      "observed": "2040-01-02"
+    },
+    {
+      "name": "Birthday of Martin Luther King, Jr.",
+      "date": "2040-01-16",
+      "observed": "2040-01-16"
+    },
+    {
+      "name": "Washington's Birthday (Presidents Day)",
+      "date": "2040-02-20",
+      "observed": "2040-02-20"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2040-05-28",
+      "observed": "2040-05-28"
+    },
+    {
+      "name": "Juneteenth National Independence Day",
+      "date": "2040-06-19",
+      "observed": "2040-06-19"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2040-07-04",
+      "observed": "2040-07-04"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2040-09-03",
+      "observed": "2040-09-03"
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2040-10-08",
+      "observed": "2040-10-08"
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2040-11-11",
+      "observed": "2040-11-12"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2040-11-22",
+      "observed": "2040-11-22"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2040-12-25",
+      "observed": "2040-12-25"
+    }
+  ]
+}

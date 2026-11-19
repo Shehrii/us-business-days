@@ -1,0 +1,14 @@
+{
+  "name": "us-business-days",
+  "version": "1.0.0",
+  "description": "US federal holidays (5 U.S.C. 6103, with weekend observance) and business-day maths. No dependencies.",
+  "type": "module",
+  "main": "index.js",
+  "exports": "./index.js",
+  "files": ["index.js", "federal-holidays-2020-2040.json"],
+  "scripts": { "test": "node --test" },
+  "keywords": ["business days", "working days", "federal holidays", "us holidays", "date"],
+  "homepage": "https://datesahead.com/business-days-calculator/",
+  "repository": "github:Shehrii/us-business-days",
+  "license": "MIT"
+}
