@@ -2,7 +2,7 @@
 
 US federal holidays and business-day maths in one small file with no dependencies.
 
-- The eleven federal holidays set by 5 U.S.C. 6103(a), including Juneteenth.
+- The eleven federal holidays set by 5 U.S.C. 6103(a), including Juneteenth from 2021 (ten holidays before that; Juneteenth became a federal holiday on 17 June 2021).
 - Weekend observance as in the OPM schedule: a Saturday holiday is taken on the Friday before, a Sunday holiday on the Monday after (so New Year's Day 2028 is observed on Friday 31 December 2027).
 - Add or count business days that skip weekends and observed holidays.
 

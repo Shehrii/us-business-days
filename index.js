@@ -21,7 +21,11 @@ function observed(t) {
   return w === 6 ? t - DAY : w === 0 ? t + DAY : t;
 }
 
-/** The eleven federal holidays whose legal date falls in `year`, with the weekday actually taken off. */
+/**
+ * The federal holidays whose legal date falls in `year`, with the weekday actually taken off.
+ * Eleven from 2021; ten before that, because Juneteenth became a federal holiday on 17 June 2021
+ * (Public Law 117-17).
+ */
 export function federalHolidays(year) {
   const list = [
     ["New Year's Day", Date.UTC(year, 0, 1)],
@@ -36,7 +40,9 @@ export function federalHolidays(year) {
     ["Thanksgiving Day", nthWeekday(year, 11, 4, 4)],
     ["Christmas Day", Date.UTC(year, 11, 25)],
   ];
-  return list.map(([name, t]) => ({ name, date: toIso(t), observed: toIso(observed(t)) }));
+  return list
+    .filter(([name]) => year >= 2021 || !name.startsWith("Juneteenth"))
+    .map(([name, t]) => ({ name, date: toIso(t), observed: toIso(observed(t)) }));
 }
 
 const cache = new Map();

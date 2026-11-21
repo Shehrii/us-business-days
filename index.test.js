@@ -16,3 +16,10 @@ test("business days", () => {
   assert.equal(addBusinessDays("2026-11-25", 1), "2026-11-27"); // skips Thanksgiving
   assert.equal(businessDaysBetween("2025-12-31", "2026-12-31"), 250);
 });
+test("Juneteenth only from 2021", () => {
+  assert.equal(federalHolidays(2020).length, 10);
+  assert.equal(holidayOn("2020-06-19"), null);
+  assert.equal(isBusinessDay("2020-06-19"), true);
+  // 19 June 2021 was a Saturday, observed Friday 18 June.
+  assert.equal(holidayOn("2021-06-18"), "Juneteenth National Independence Day");
+});
